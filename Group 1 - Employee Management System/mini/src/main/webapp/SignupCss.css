@@ -1,0 +1,115 @@
+@charset "ISO-8859-1";
+
+.banner{
+    width: 100%;
+    height: 100vh;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_i4QGBJGSkmCmVNU6sW34DXG2fa3SuulRUA&usqp=CAU');
+    background-position: center;
+    background-size: center;
+}
+.navbar{
+    width: 90%;
+    padding: 30px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    width: 100px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 20px;
+}
+.navbar ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    font-weight: 600;
+    padding: 15px;
+     font-family: "Times New Roman", Times, serif;
+}
+li a:hover{
+    background: white;
+    transition: 0.5s;
+}
+.navbar a:hover{
+    color: black;
+}
+/* Style the form container */
+body {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    align :center;
+}
+
+/* Style the form card */
+form {
+    background-color: #fff; /* White card background color */
+    color: #000; /* Text color */
+    width: 400px; /* Adjust card width as needed */
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    text-align: center;
+   margin-top: 20px;
+    align:center;
+    margin: 0 auto;
+    
+}
+.navbar{
+    width: 90%;
+    padding: 30px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* Style form elements */
+label {
+    display: block;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="number"] {
+    width: 90%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+input[type="submit"] {
+    background-color: #000; /* Button background color */
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #333; /* Button background color on hover */
+}
+
+/* Style the "Sign up" link */
+p a {
+    color: #000; /* Link color */
+    text-decoration: none;
+}
+
+p a:hover {
+    text-decoration: underline;
+}
