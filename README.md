@@ -4,7 +4,7 @@
 Hello Everyone 🖐, Welcome to my JDBC-JSP-SERVLET Project .
 
 Let's download the below tech tools to run this project in your local system.
-1. Eclipse (Version 2021-09)
+1. Eclipse IDE (Version 2021-09)
 2. Apache Tomcat (Version 9.0.85)
 3. MySql for Database
 
