@@ -27,5 +27,7 @@ Steps to follow -
 Thank you for your patience to read my README.md file😊
 
 Feel free to contact me for any queries or assistance. 
+📫 How to reach me at ajaypjayadeva@gmail.com
+📫 Linkedin - www.linkedin.com/in/ajay-p-jayadeva-61564b23b .
 
 
